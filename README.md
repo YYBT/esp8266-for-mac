@@ -9,4 +9,5 @@ esp8266加5v继电器 制作一个简单的物联网小灯
 
 ### 1、设备购买
 
-(https://gd3.alicdn.com/imgextra/i2/361121710/TB20Lh3wrXlpuFjy1zbXXb_qpXa_!!361121710.jpg)
+ESP8266串口wifi模块 物联网 V3开发板 兼容 ModeMCU Lua CH340
+!(https://gd3.alicdn.com/imgextra/i2/361121710/TB20Lh3wrXlpuFjy1zbXXb_qpXa_!!361121710.jpg)
