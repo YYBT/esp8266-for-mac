@@ -26,4 +26,24 @@ ESP8266串口wifi模块 物联网 V3开发板 兼容 ModeMCU Lua CH340
 * 2.打开终端运行以下命令：
 sudo nvram boot-args="kext-dev-mode=1"
 sudo Reboot
+* 3.安装Arduino IDE
+https://www.arduino.cc/en/Main/OldSoftwareReleases
+* 4.配置Arduino IDE 参数
+![图片](https://github.com/YYBT/esp8266-for-mac/blob/master/4.png?raw=true)
+![图片](https://github.com/YYBT/esp8266-for-mac/blob/master/5.png?raw=true)
+在设置里配置附加开发板管理网址
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+打开工具选项 选择开发板中开发板管理器 添加esp8366 并安装
+![图片](https://github.com/YYBT/esp8266-for-mac/blob/master/6.png?raw=true)
+![图片](https://github.com/YYBT/esp8266-for-mac/blob/master/7.png?raw=true)
+![图片](https://github.com/YYBT/esp8266-for-mac/blob/master/8.png?raw=true)
+![图片](https://github.com/YYBT/esp8266-for-mac/blob/master/9.png?raw=true)
+选择 文件>示例>ESP8266WebServer>HelloServer
+![图片](https://github.com/YYBT/esp8266-for-mac/blob/master/10.png?raw=true)
+### 3、代码调试
+
+
+
+
+
 
