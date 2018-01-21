@@ -1,6 +1,7 @@
 # esp8266-for-mac
+20元制作一个 简单物联网小灯
 esp8266加5v继电器 制作一个简单的物联网小灯
-
+![图片](https://github.com/YYBT/esp8266-for-mac/blob/master/psb.gif?raw=true)
 # 步骤
 * 1、设备购买
 * 2、电脑环境配置（for mac）
@@ -48,7 +49,16 @@ ESP8266串口wifi模块 物联网 V3开发板 兼容 ModeMCU Lua CH340
 >const char* password = "wifi密码";
 
 #### 4、代码上传，设备调试
-未完待续...
+##### 点击上传按钮，上传代码
+
+#### 5、设备连线
+> 3v->vcc<br>
+> G->GND<br>
+> D4->IN
+
+#### 视频可参考网友
+##### 不想下床关灯？20元改造一个“物联网灯”——ESP8266
+> https://www.bilibili.com/video/av16491098/
 
 
 
